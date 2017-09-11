@@ -15,6 +15,46 @@
 		B7A4CC7A1F66695300848640 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B7A4CC781F66695300848640 /* LaunchScreen.storyboard */; };
 		B7A4CC851F66695400848640 /* YMShareMessageTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B7A4CC841F66695400848640 /* YMShareMessageTests.m */; };
 		B7A4CC901F66695400848640 /* YMShareMessageUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = B7A4CC8F1F66695400848640 /* YMShareMessageUITests.m */; };
+		B7A4CCD61F6669A100848640 /* OpenShare+Alipay.m in Sources */ = {isa = PBXBuildFile; fileRef = B7A4CCA01F6669A100848640 /* OpenShare+Alipay.m */; };
+		B7A4CCD71F6669A100848640 /* OpenShare+QQ.m in Sources */ = {isa = PBXBuildFile; fileRef = B7A4CCA21F6669A100848640 /* OpenShare+QQ.m */; };
+		B7A4CCD81F6669A100848640 /* OpenShare+Renren.m in Sources */ = {isa = PBXBuildFile; fileRef = B7A4CCA41F6669A100848640 /* OpenShare+Renren.m */; };
+		B7A4CCD91F6669A100848640 /* OpenShare+Weibo.m in Sources */ = {isa = PBXBuildFile; fileRef = B7A4CCA61F6669A100848640 /* OpenShare+Weibo.m */; };
+		B7A4CCDA1F6669A100848640 /* OpenShare+Weixin.m in Sources */ = {isa = PBXBuildFile; fileRef = B7A4CCA81F6669A100848640 /* OpenShare+Weixin.m */; };
+		B7A4CCDB1F6669A100848640 /* OpenShare.m in Sources */ = {isa = PBXBuildFile; fileRef = B7A4CCAA1F6669A100848640 /* OpenShare.m */; };
+		B7A4CCDC1F6669A100848640 /* Action_Copy@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7A4CCAD1F6669A100848640 /* Action_Copy@2x.png */; };
+		B7A4CCDD1F6669A100848640 /* Action_Copy@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7A4CCAE1F6669A100848640 /* Action_Copy@3x.png */; };
+		B7A4CCDE1F6669A100848640 /* Action_facebook@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7A4CCAF1F6669A100848640 /* Action_facebook@2x.png */; };
+		B7A4CCDF1F6669A100848640 /* Action_facebook@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7A4CCB01F6669A100848640 /* Action_facebook@3x.png */; };
+		B7A4CCE01F6669A100848640 /* Action_Font@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7A4CCB11F6669A100848640 /* Action_Font@2x.png */; };
+		B7A4CCE11F6669A100848640 /* Action_Font@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7A4CCB21F6669A100848640 /* Action_Font@3x.png */; };
+		B7A4CCE21F6669A100848640 /* Action_Friends@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7A4CCB31F6669A100848640 /* Action_Friends@2x.png */; };
+		B7A4CCE31F6669A100848640 /* Action_Friends@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7A4CCB41F6669A100848640 /* Action_Friends@3x.png */; };
+		B7A4CCE41F6669A100848640 /* Action_Melting@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7A4CCB51F6669A100848640 /* Action_Melting@2x.png */; };
+		B7A4CCE51F6669A100848640 /* Action_Melting@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7A4CCB61F6669A100848640 /* Action_Melting@3x.png */; };
+		B7A4CCE61F6669A100848640 /* Action_Moments@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7A4CCB71F6669A100848640 /* Action_Moments@2x.png */; };
+		B7A4CCE71F6669A100848640 /* Action_Moments@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7A4CCB81F6669A100848640 /* Action_Moments@3x.png */; };
+		B7A4CCE81F6669A100848640 /* Action_MyFavAdd@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7A4CCB91F6669A100848640 /* Action_MyFavAdd@2x.png */; };
+		B7A4CCE91F6669A100848640 /* Action_MyFavAdd@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7A4CCBA1F6669A100848640 /* Action_MyFavAdd@3x.png */; };
+		B7A4CCEA1F6669A100848640 /* Action_QQ@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7A4CCBB1F6669A100848640 /* Action_QQ@2x.png */; };
+		B7A4CCEB1F6669A100848640 /* Action_QQ@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7A4CCBC1F6669A100848640 /* Action_QQ@3x.png */; };
+		B7A4CCEC1F6669A100848640 /* Action_qzone@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7A4CCBD1F6669A100848640 /* Action_qzone@2x.png */; };
+		B7A4CCED1F6669A100848640 /* Action_qzone@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7A4CCBE1F6669A100848640 /* Action_qzone@3x.png */; };
+		B7A4CCEE1F6669A100848640 /* Action_Refresh@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7A4CCBF1F6669A100848640 /* Action_Refresh@2x.png */; };
+		B7A4CCEF1F6669A100848640 /* Action_Refresh@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7A4CCC01F6669A100848640 /* Action_Refresh@3x.png */; };
+		B7A4CCF01F6669A100848640 /* Action_Share@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7A4CCC11F6669A100848640 /* Action_Share@2x.png */; };
+		B7A4CCF11F6669A100848640 /* Action_Share@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7A4CCC21F6669A100848640 /* Action_Share@3x.png */; };
+		B7A4CCF21F6669A100848640 /* Action_Verified@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7A4CCC31F6669A100848640 /* Action_Verified@2x.png */; };
+		B7A4CCF31F6669A100848640 /* Action_Verified@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7A4CCC41F6669A100848640 /* Action_Verified@3x.png */; };
+		B7A4CCF41F6669A100848640 /* background@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7A4CCC51F6669A100848640 /* background@2x.png */; };
+		B7A4CCF51F6669A100848640 /* barbuttonicon_more@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7A4CCC61F6669A100848640 /* barbuttonicon_more@2x.png */; };
+		B7A4CCF61F6669A100848640 /* barbuttonicon_more@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B7A4CCC71F6669A100848640 /* barbuttonicon_more@3x.png */; };
+		B7A4CCF71F6669A100848640 /* YMShareItem.m in Sources */ = {isa = PBXBuildFile; fileRef = B7A4CCCA1F6669A100848640 /* YMShareItem.m */; };
+		B7A4CCF81F6669A100848640 /* YMShareItemCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B7A4CCCC1F6669A100848640 /* YMShareItemCell.m */; };
+		B7A4CCF91F6669A100848640 /* YMShareSheetCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B7A4CCCE1F6669A100848640 /* YMShareSheetCell.m */; };
+		B7A4CCFA1F6669A100848640 /* YMShareSheetView.m in Sources */ = {isa = PBXBuildFile; fileRef = B7A4CCD01F6669A100848640 /* YMShareSheetView.m */; };
+		B7A4CCFB1F6669A100848640 /* YMShareView.m in Sources */ = {isa = PBXBuildFile; fileRef = B7A4CCD21F6669A100848640 /* YMShareView.m */; };
+		B7A4CCFC1F6669A100848640 /* YMShareManager.m in Sources */ = {isa = PBXBuildFile; fileRef = B7A4CCD51F6669A100848640 /* YMShareManager.m */; };
+		B7A4CCFE1F666D1700848640 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = B7A4CCFD1F666D1700848640 /* icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +91,60 @@
 		B7A4CC8B1F66695400848640 /* YMShareMessageUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = YMShareMessageUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B7A4CC8F1F66695400848640 /* YMShareMessageUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YMShareMessageUITests.m; sourceTree = "<group>"; };
 		B7A4CC911F66695400848640 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B7A4CC9F1F6669A100848640 /* OpenShare+Alipay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "OpenShare+Alipay.h"; sourceTree = "<group>"; };
+		B7A4CCA01F6669A100848640 /* OpenShare+Alipay.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "OpenShare+Alipay.m"; sourceTree = "<group>"; };
+		B7A4CCA11F6669A100848640 /* OpenShare+QQ.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "OpenShare+QQ.h"; sourceTree = "<group>"; };
+		B7A4CCA21F6669A100848640 /* OpenShare+QQ.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "OpenShare+QQ.m"; sourceTree = "<group>"; };
+		B7A4CCA31F6669A100848640 /* OpenShare+Renren.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "OpenShare+Renren.h"; sourceTree = "<group>"; };
+		B7A4CCA41F6669A100848640 /* OpenShare+Renren.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "OpenShare+Renren.m"; sourceTree = "<group>"; };
+		B7A4CCA51F6669A100848640 /* OpenShare+Weibo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "OpenShare+Weibo.h"; sourceTree = "<group>"; };
+		B7A4CCA61F6669A100848640 /* OpenShare+Weibo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "OpenShare+Weibo.m"; sourceTree = "<group>"; };
+		B7A4CCA71F6669A100848640 /* OpenShare+Weixin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "OpenShare+Weixin.h"; sourceTree = "<group>"; };
+		B7A4CCA81F6669A100848640 /* OpenShare+Weixin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "OpenShare+Weixin.m"; sourceTree = "<group>"; };
+		B7A4CCA91F6669A100848640 /* OpenShare.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OpenShare.h; sourceTree = "<group>"; };
+		B7A4CCAA1F6669A100848640 /* OpenShare.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OpenShare.m; sourceTree = "<group>"; };
+		B7A4CCAB1F6669A100848640 /* OpenShareHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OpenShareHeader.h; sourceTree = "<group>"; };
+		B7A4CCAD1F6669A100848640 /* Action_Copy@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Action_Copy@2x.png"; sourceTree = "<group>"; };
+		B7A4CCAE1F6669A100848640 /* Action_Copy@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Action_Copy@3x.png"; sourceTree = "<group>"; };
+		B7A4CCAF1F6669A100848640 /* Action_facebook@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Action_facebook@2x.png"; sourceTree = "<group>"; };
+		B7A4CCB01F6669A100848640 /* Action_facebook@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Action_facebook@3x.png"; sourceTree = "<group>"; };
+		B7A4CCB11F6669A100848640 /* Action_Font@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Action_Font@2x.png"; sourceTree = "<group>"; };
+		B7A4CCB21F6669A100848640 /* Action_Font@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Action_Font@3x.png"; sourceTree = "<group>"; };
+		B7A4CCB31F6669A100848640 /* Action_Friends@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Action_Friends@2x.png"; sourceTree = "<group>"; };
+		B7A4CCB41F6669A100848640 /* Action_Friends@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Action_Friends@3x.png"; sourceTree = "<group>"; };
+		B7A4CCB51F6669A100848640 /* Action_Melting@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Action_Melting@2x.png"; sourceTree = "<group>"; };
+		B7A4CCB61F6669A100848640 /* Action_Melting@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Action_Melting@3x.png"; sourceTree = "<group>"; };
+		B7A4CCB71F6669A100848640 /* Action_Moments@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Action_Moments@2x.png"; sourceTree = "<group>"; };
+		B7A4CCB81F6669A100848640 /* Action_Moments@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Action_Moments@3x.png"; sourceTree = "<group>"; };
+		B7A4CCB91F6669A100848640 /* Action_MyFavAdd@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Action_MyFavAdd@2x.png"; sourceTree = "<group>"; };
+		B7A4CCBA1F6669A100848640 /* Action_MyFavAdd@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Action_MyFavAdd@3x.png"; sourceTree = "<group>"; };
+		B7A4CCBB1F6669A100848640 /* Action_QQ@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Action_QQ@2x.png"; sourceTree = "<group>"; };
+		B7A4CCBC1F6669A100848640 /* Action_QQ@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Action_QQ@3x.png"; sourceTree = "<group>"; };
+		B7A4CCBD1F6669A100848640 /* Action_qzone@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Action_qzone@2x.png"; sourceTree = "<group>"; };
+		B7A4CCBE1F6669A100848640 /* Action_qzone@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Action_qzone@3x.png"; sourceTree = "<group>"; };
+		B7A4CCBF1F6669A100848640 /* Action_Refresh@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Action_Refresh@2x.png"; sourceTree = "<group>"; };
+		B7A4CCC01F6669A100848640 /* Action_Refresh@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Action_Refresh@3x.png"; sourceTree = "<group>"; };
+		B7A4CCC11F6669A100848640 /* Action_Share@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Action_Share@2x.png"; sourceTree = "<group>"; };
+		B7A4CCC21F6669A100848640 /* Action_Share@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Action_Share@3x.png"; sourceTree = "<group>"; };
+		B7A4CCC31F6669A100848640 /* Action_Verified@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Action_Verified@2x.png"; sourceTree = "<group>"; };
+		B7A4CCC41F6669A100848640 /* Action_Verified@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Action_Verified@3x.png"; sourceTree = "<group>"; };
+		B7A4CCC51F6669A100848640 /* background@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "background@2x.png"; sourceTree = "<group>"; };
+		B7A4CCC61F6669A100848640 /* barbuttonicon_more@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "barbuttonicon_more@2x.png"; sourceTree = "<group>"; };
+		B7A4CCC71F6669A100848640 /* barbuttonicon_more@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "barbuttonicon_more@3x.png"; sourceTree = "<group>"; };
+		B7A4CCC91F6669A100848640 /* YMShareItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YMShareItem.h; sourceTree = "<group>"; };
+		B7A4CCCA1F6669A100848640 /* YMShareItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YMShareItem.m; sourceTree = "<group>"; };
+		B7A4CCCB1F6669A100848640 /* YMShareItemCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YMShareItemCell.h; sourceTree = "<group>"; };
+		B7A4CCCC1F6669A100848640 /* YMShareItemCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YMShareItemCell.m; sourceTree = "<group>"; };
+		B7A4CCCD1F6669A100848640 /* YMShareSheetCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YMShareSheetCell.h; sourceTree = "<group>"; };
+		B7A4CCCE1F6669A100848640 /* YMShareSheetCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YMShareSheetCell.m; sourceTree = "<group>"; };
+		B7A4CCCF1F6669A100848640 /* YMShareSheetView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YMShareSheetView.h; sourceTree = "<group>"; };
+		B7A4CCD01F6669A100848640 /* YMShareSheetView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YMShareSheetView.m; sourceTree = "<group>"; };
+		B7A4CCD11F6669A100848640 /* YMShareView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YMShareView.h; sourceTree = "<group>"; };
+		B7A4CCD21F6669A100848640 /* YMShareView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YMShareView.m; sourceTree = "<group>"; };
+		B7A4CCD31F6669A100848640 /* YMShareViewDefine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YMShareViewDefine.h; sourceTree = "<group>"; };
+		B7A4CCD41F6669A100848640 /* YMShareManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YMShareManager.h; sourceTree = "<group>"; };
+		B7A4CCD51F6669A100848640 /* YMShareManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YMShareManager.m; sourceTree = "<group>"; };
+		B7A4CCFD1F666D1700848640 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +195,7 @@
 		B7A4CC691F66695300848640 /* YMShareMessage */ = {
 			isa = PBXGroup;
 			children = (
+				B7A4CC9D1F6669A100848640 /* YMShareMessage */,
 				B7A4CC6D1F66695300848640 /* AppDelegate.h */,
 				B7A4CC6E1F66695300848640 /* AppDelegate.m */,
 				B7A4CC701F66695300848640 /* ViewController.h */,
@@ -138,6 +233,91 @@
 				B7A4CC911F66695400848640 /* Info.plist */,
 			);
 			path = YMShareMessageUITests;
+			sourceTree = "<group>";
+		};
+		B7A4CC9D1F6669A100848640 /* YMShareMessage */ = {
+			isa = PBXGroup;
+			children = (
+				B7A4CC9E1F6669A100848640 /* Openshare */,
+				B7A4CCAC1F6669A100848640 /* Resources */,
+				B7A4CCC81F6669A100848640 /* ShareView */,
+				B7A4CCD41F6669A100848640 /* YMShareManager.h */,
+				B7A4CCD51F6669A100848640 /* YMShareManager.m */,
+			);
+			path = YMShareMessage;
+			sourceTree = "<group>";
+		};
+		B7A4CC9E1F6669A100848640 /* Openshare */ = {
+			isa = PBXGroup;
+			children = (
+				B7A4CC9F1F6669A100848640 /* OpenShare+Alipay.h */,
+				B7A4CCA01F6669A100848640 /* OpenShare+Alipay.m */,
+				B7A4CCA11F6669A100848640 /* OpenShare+QQ.h */,
+				B7A4CCA21F6669A100848640 /* OpenShare+QQ.m */,
+				B7A4CCA31F6669A100848640 /* OpenShare+Renren.h */,
+				B7A4CCA41F6669A100848640 /* OpenShare+Renren.m */,
+				B7A4CCA51F6669A100848640 /* OpenShare+Weibo.h */,
+				B7A4CCA61F6669A100848640 /* OpenShare+Weibo.m */,
+				B7A4CCA71F6669A100848640 /* OpenShare+Weixin.h */,
+				B7A4CCA81F6669A100848640 /* OpenShare+Weixin.m */,
+				B7A4CCA91F6669A100848640 /* OpenShare.h */,
+				B7A4CCAA1F6669A100848640 /* OpenShare.m */,
+				B7A4CCAB1F6669A100848640 /* OpenShareHeader.h */,
+			);
+			path = Openshare;
+			sourceTree = "<group>";
+		};
+		B7A4CCAC1F6669A100848640 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				B7A4CCFD1F666D1700848640 /* icon.png */,
+				B7A4CCAD1F6669A100848640 /* Action_Copy@2x.png */,
+				B7A4CCAE1F6669A100848640 /* Action_Copy@3x.png */,
+				B7A4CCAF1F6669A100848640 /* Action_facebook@2x.png */,
+				B7A4CCB01F6669A100848640 /* Action_facebook@3x.png */,
+				B7A4CCB11F6669A100848640 /* Action_Font@2x.png */,
+				B7A4CCB21F6669A100848640 /* Action_Font@3x.png */,
+				B7A4CCB31F6669A100848640 /* Action_Friends@2x.png */,
+				B7A4CCB41F6669A100848640 /* Action_Friends@3x.png */,
+				B7A4CCB51F6669A100848640 /* Action_Melting@2x.png */,
+				B7A4CCB61F6669A100848640 /* Action_Melting@3x.png */,
+				B7A4CCB71F6669A100848640 /* Action_Moments@2x.png */,
+				B7A4CCB81F6669A100848640 /* Action_Moments@3x.png */,
+				B7A4CCB91F6669A100848640 /* Action_MyFavAdd@2x.png */,
+				B7A4CCBA1F6669A100848640 /* Action_MyFavAdd@3x.png */,
+				B7A4CCBB1F6669A100848640 /* Action_QQ@2x.png */,
+				B7A4CCBC1F6669A100848640 /* Action_QQ@3x.png */,
+				B7A4CCBD1F6669A100848640 /* Action_qzone@2x.png */,
+				B7A4CCBE1F6669A100848640 /* Action_qzone@3x.png */,
+				B7A4CCBF1F6669A100848640 /* Action_Refresh@2x.png */,
+				B7A4CCC01F6669A100848640 /* Action_Refresh@3x.png */,
+				B7A4CCC11F6669A100848640 /* Action_Share@2x.png */,
+				B7A4CCC21F6669A100848640 /* Action_Share@3x.png */,
+				B7A4CCC31F6669A100848640 /* Action_Verified@2x.png */,
+				B7A4CCC41F6669A100848640 /* Action_Verified@3x.png */,
+				B7A4CCC51F6669A100848640 /* background@2x.png */,
+				B7A4CCC61F6669A100848640 /* barbuttonicon_more@2x.png */,
+				B7A4CCC71F6669A100848640 /* barbuttonicon_more@3x.png */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		B7A4CCC81F6669A100848640 /* ShareView */ = {
+			isa = PBXGroup;
+			children = (
+				B7A4CCC91F6669A100848640 /* YMShareItem.h */,
+				B7A4CCCA1F6669A100848640 /* YMShareItem.m */,
+				B7A4CCCB1F6669A100848640 /* YMShareItemCell.h */,
+				B7A4CCCC1F6669A100848640 /* YMShareItemCell.m */,
+				B7A4CCCD1F6669A100848640 /* YMShareSheetCell.h */,
+				B7A4CCCE1F6669A100848640 /* YMShareSheetCell.m */,
+				B7A4CCCF1F6669A100848640 /* YMShareSheetView.h */,
+				B7A4CCD01F6669A100848640 /* YMShareSheetView.m */,
+				B7A4CCD11F6669A100848640 /* YMShareView.h */,
+				B7A4CCD21F6669A100848640 /* YMShareView.m */,
+				B7A4CCD31F6669A100848640 /* YMShareViewDefine.h */,
+			);
+			path = ShareView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -246,9 +426,37 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B7A4CCEE1F6669A100848640 /* Action_Refresh@2x.png in Resources */,
+				B7A4CCE71F6669A100848640 /* Action_Moments@3x.png in Resources */,
+				B7A4CCDE1F6669A100848640 /* Action_facebook@2x.png in Resources */,
+				B7A4CCEA1F6669A100848640 /* Action_QQ@2x.png in Resources */,
+				B7A4CCE31F6669A100848640 /* Action_Friends@3x.png in Resources */,
 				B7A4CC7A1F66695300848640 /* LaunchScreen.storyboard in Resources */,
+				B7A4CCED1F6669A100848640 /* Action_qzone@3x.png in Resources */,
+				B7A4CCF61F6669A100848640 /* barbuttonicon_more@3x.png in Resources */,
+				B7A4CCFE1F666D1700848640 /* icon.png in Resources */,
+				B7A4CCF51F6669A100848640 /* barbuttonicon_more@2x.png in Resources */,
+				B7A4CCEF1F6669A100848640 /* Action_Refresh@3x.png in Resources */,
+				B7A4CCF01F6669A100848640 /* Action_Share@2x.png in Resources */,
+				B7A4CCF11F6669A100848640 /* Action_Share@3x.png in Resources */,
+				B7A4CCF41F6669A100848640 /* background@2x.png in Resources */,
+				B7A4CCEB1F6669A100848640 /* Action_QQ@3x.png in Resources */,
+				B7A4CCEC1F6669A100848640 /* Action_qzone@2x.png in Resources */,
+				B7A4CCF31F6669A100848640 /* Action_Verified@3x.png in Resources */,
+				B7A4CCE21F6669A100848640 /* Action_Friends@2x.png in Resources */,
+				B7A4CCDF1F6669A100848640 /* Action_facebook@3x.png in Resources */,
+				B7A4CCE91F6669A100848640 /* Action_MyFavAdd@3x.png in Resources */,
+				B7A4CCE51F6669A100848640 /* Action_Melting@3x.png in Resources */,
+				B7A4CCF21F6669A100848640 /* Action_Verified@2x.png in Resources */,
+				B7A4CCE01F6669A100848640 /* Action_Font@2x.png in Resources */,
 				B7A4CC771F66695300848640 /* Assets.xcassets in Resources */,
+				B7A4CCE61F6669A100848640 /* Action_Moments@2x.png in Resources */,
 				B7A4CC751F66695300848640 /* Main.storyboard in Resources */,
+				B7A4CCE11F6669A100848640 /* Action_Font@3x.png in Resources */,
+				B7A4CCE81F6669A100848640 /* Action_MyFavAdd@2x.png in Resources */,
+				B7A4CCDC1F6669A100848640 /* Action_Copy@2x.png in Resources */,
+				B7A4CCDD1F6669A100848640 /* Action_Copy@3x.png in Resources */,
+				B7A4CCE41F6669A100848640 /* Action_Melting@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,8 +482,20 @@
 			buildActionMask = 2147483647;
 			files = (
 				B7A4CC721F66695300848640 /* ViewController.m in Sources */,
+				B7A4CCDA1F6669A100848640 /* OpenShare+Weixin.m in Sources */,
+				B7A4CCD91F6669A100848640 /* OpenShare+Weibo.m in Sources */,
+				B7A4CCD71F6669A100848640 /* OpenShare+QQ.m in Sources */,
+				B7A4CCF81F6669A100848640 /* YMShareItemCell.m in Sources */,
+				B7A4CCDB1F6669A100848640 /* OpenShare.m in Sources */,
+				B7A4CCFA1F6669A100848640 /* YMShareSheetView.m in Sources */,
+				B7A4CCD61F6669A100848640 /* OpenShare+Alipay.m in Sources */,
+				B7A4CCFB1F6669A100848640 /* YMShareView.m in Sources */,
+				B7A4CCFC1F6669A100848640 /* YMShareManager.m in Sources */,
 				B7A4CC6F1F66695300848640 /* AppDelegate.m in Sources */,
 				B7A4CC6C1F66695300848640 /* main.m in Sources */,
+				B7A4CCF71F6669A100848640 /* YMShareItem.m in Sources */,
+				B7A4CCD81F6669A100848640 /* OpenShare+Renren.m in Sources */,
+				B7A4CCF91F6669A100848640 /* YMShareSheetCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
